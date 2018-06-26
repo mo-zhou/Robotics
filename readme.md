@@ -1,4 +1,4 @@
-
+This is a project work from the Udacity Robotics Software Engineering Nanodegree. This project is a mapping and autonomous driving from a Rover simulator, as well as recognizing objects to pick up. Mapping result has been recorded in a short movie. You can find the Unity simulator here: https://s3-us-west-1.amazonaws.com/udacity-robotics/Rover+Unity+Sims/Mac_Roversim.zip.
 
 **The goals / steps of this project are the following:**  
 
